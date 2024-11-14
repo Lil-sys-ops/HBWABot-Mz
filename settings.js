@@ -9,7 +9,7 @@ global.autoTyping = false // true a i dah chuan i type la a lang ang
 global.autoRecord = false // true a i dah chuan Voice record angin i lang ang
 global.public = true // false ah i dah chuan nang chauhin i hmang thei ang
 global.autoread = true // true a i dah chuan message zawng zawng read vek zelin a awm ang 
-global.autoread_status = true // true a i dah chuan auto status view in a awm ang
+global.autoread_status = false // true a i dah chuan auto status view in a awm ang
 
 // SET UP LANGUAGE >>>>>>
 global.default_language = true // If you don't want to use the default language, set it to false
@@ -19,16 +19,16 @@ global.bot_language = 'lus' // support language [English, Mizo, Indonesia, Russi
 
 
 //info
-global.owner = ['918416093656'] // I phone number in thlak rawh
-global.ownernumber = '918416093656' // I phone number in thlak rawh
-global.ownername = "꧁Herbert♕꧂" // I hming dah tel bawk la
-global.location = "India, Mizoram, Aizawl" // I awmna hmun daha
-global.botname = "HBWABot Mizo" // I bot hming tur dah la
+global.owner = ['9962126681'] // I phone number in thlak rawh
+global.ownernumber = '919862126681' // I phone number in thlak rawh
+global.ownername = "꧁Jonathan♕꧂" // I hming dah tel bawk la
+global.location = "India, Mizoram, Serchhip" // I awmna hmun daha
+global.botname = "7.clouds" // I bot hming tur dah la
 global.ownerweb = "https://youtube.com/@HBMods_Channel"
 global.themeemoji = '🤖'
-global.creator = "918416093656@s.whatsapp.net" // @ symbol hmaa number hi i phone number in thlak rawh
+global.creator = "919862126681@s.whatsapp.net" // @ symbol hmaa number hi i phone number in thlak rawh
 
-global.ownerNumber = ["918416093656@s.whatsapp.net"]// @ symbol hmaa number hi i phone number in thlak rawh
+global.ownerNumber = ["919862126681@s.whatsapp.net"]// @ symbol hmaa number hi i phone number in thlak rawh
 global.prefixc = ['/'] // Prefix a tana hman theih loh tur symbolise a awm nuala, i bot a work a lo a nih chuan i thlak mai dawn nia
 global.sessionName = 'session'
 
